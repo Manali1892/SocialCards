@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(128, 128, 128, 0.644);
+}
+.fa{
+    color: rgba(30, 16, 219, 0.637);
+}
+.title{
+    margin-top: 20px 0px;
+}
+a{
+    color: blue;
+    border-bottom: 2px solid rgb(24, 126, 209,0.829);
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin:30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
